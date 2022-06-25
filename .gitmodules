@@ -1,0 +1,15 @@
+[submodule "stealthdbg/dependencies/zydis"]
+	path = stealthdbg/dependencies/zydis
+	url = https://github.com/stealthdbg/zydis.git
+[submodule "stealthdbg/dependencies/phnt"]
+	path = stealthdbg/dependencies/phnt
+	url = https://github.com/stealthdbg/phnt.git
+[submodule "stealthdbg/dependencies/pdbex"]
+	path = stealthdbg/dependencies/pdbex
+	url = https://github.com/stealthdbg/pdbex.git
+[submodule "stealthdbg/script-engine/modules/script-engine-test"]
+	path = stealthdbg/script-engine/modules/script-engine-test
+	url = https://github.com/stealthdbg/script-engine-test.git
+[submodule "stealthdbg/dependencies/ia32-doc"]
+	path = stealthdbg/dependencies/ia32-doc
+	url = https://github.com/stealthdbg/ia32-doc.git
